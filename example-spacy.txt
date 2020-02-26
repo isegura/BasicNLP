@@ -1,0 +1,48 @@
+The 57th Annual Meeting of the Association for Computational Linguistics (ACL) will take place in Florence (Italy) at the 'Fortezza da Basso' from July 28th to August 2nd, 2019.
+The program of the conference will include poster sessions, tutorials, workshops, and demonstrations in addition to the main conference.
+ACL is the premier conference of the field of computational linguistics, covering a broad spectrum of diverse research areas that are concerned with computational approaches to natural language.
+
+LATEST NEWS:
+2018-10-23: The last Joint Call for Workshop Proposals is out
+2018-10-16: Please help us recruit the best reviewers, area chairs, and invited speakers
+2018-10-16: The Call for Tutorial Proposals is out
+2018-10-16: ACL 2019 social media channels are now available
+2018-10-05: The Call for Papers is out
+2018-09-04: The Joint Call for Workshop Proposals is out
+2018-06-12: ACL 2019 Chairs full list is now online
+2018-02-20: Anna Korhonen and David Traum are appointed ACL 2019 Program Co-Chairs
+2018-01-08: Professor Lluís Màrquez is appointed ACL 2019 General Chair
+2017-09-01: ACL 2019 website is online
+
+KEY DATES:
+Deadline for nominating reviewers, area chairs, and invited speakers - October 31, 2018
+Submission deadline for workshop proposals - November 6, 2018
+Notification of acceptance for workshops - November 29, 2018
+Submission deadline for tutorial proposals - January 20, 2019
+Notification of acceptance for tutorials - February 1, 2019
+Submission deadline (long & short papers) - March 4, 2019
+Notification of acceptance - May 13, 2019
+Camera-ready due - June 3, 2019
+Tutorials - July 28, 2019
+Conference - July 29-31, 2019
+Workshops and Co-located conferences - August 1-2, 2019
+
+General Chair
+Lluís Màrquez (lluismv@amazon.com) - Amazon
+
+Program Co-Chairs
+Anna Korhonen (alk23@cam.ac.uk) - University of Cambridge
+David Traum (traum@ict.usc.edu) - University of South California
+
+Local Organisation Co-Chairs
+Alessandro Lenci (alessandro.lenci@ling.unipi.it) - University of Pisa
+Bernardo Magnini (magnini@fbk.eu) - Bruno Kessler Foundation
+Simonetta Montemagni (simonetta.montemagni@ilc.cnr.it) - CNR-ILC, Pisa
+
+Supported by
+AILC - Italian Association for Computational Linguistics
+Bruno Kessler Foundation
+CNR-ILC, Pisa
+University of Pisa
+
+Special thanks to Firenze Convention Bureau & PLS Group (pco company)
